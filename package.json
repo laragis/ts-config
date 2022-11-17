@@ -1,0 +1,13 @@
+{
+  "name": "@ttungbmt/ts-config",
+  "version": "0.0.1",
+  "author": "Trương Thanh Tùng <ttungbmt@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laragis/ts-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
